@@ -6,6 +6,7 @@
 En este ejercicio la primera y segunda parte no me ha dado problemas.
 
 En cambio el tercer me lo he inventado para que diera el resultado *más o menos*.
+(Recuerda que hablamos en clase, y por eso no cambié el código, y escribo en el archivo más de lo que pides.)
 
 >El codigo esta explicado usando comentarios.
 >
