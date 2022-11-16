@@ -25,4 +25,4 @@ y al final del programa, SIEMPRE deberá indicar «Programa finalizado».
 			System.out.println("El programa a finalizado :)");
 		}
 
-_El resultado tambén esta en el alrchivo .java_
+_El resultado también esta en el alrchivo .java_
