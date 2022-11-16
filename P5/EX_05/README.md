@@ -1,4 +1,4 @@
-## Enuncuado del ejercicio 5
+## Enunciado del ejercicio 5
 Haz un programa que divida un número introducido por el usuario, entre un número aleatorio del 0 al 2.
 
 Si el usuario introduce un digito no numerico, el programa ha de mostrar un mensaje de «La proxima vez introduce un número.»
