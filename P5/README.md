@@ -37,4 +37,4 @@
 		}}
 <span style="color:green">El código funciona correctamente.</span>
 ## Ejercicio 5
-Este ejercicio esta en el README de EX_05.
+Este ejercicio esta en la carpeta EX_05.
